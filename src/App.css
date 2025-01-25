@@ -1,0 +1,15 @@
+#root {
+  margin: 0;
+  text-align: center;
+}
+
+body{
+  margin: 0;
+ 
+}
+
+@media print {
+  .hide-print {
+    display: none !important;
+  }
+}
